@@ -29,8 +29,4 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ваш-профиль)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]([https://t.me/ваш-профиль](https://web.telegram.org/k/#@BAYA2101))
 
-
-- **Email:** [bayaman2101gmail.com]
-- **LinkedIn:** [https://www.linkedin.com/in/bayaman-aydarov-9a274130a/]
-- **Telegram:** [https://web.telegram.org/k/#@BAYA2101]
 Спасибо за внимание! Буду рад сотрудничеству и интересным проектам.
